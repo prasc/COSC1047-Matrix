@@ -48,8 +48,8 @@ public class Main {
             System.out.println();
 
         }
-        System.out.println("The max row is: " + maxRow);
-        System.out.println("The max col is: " + maxCol);
+        System.out.println("The max row index is: " + maxRow);
+        System.out.println("The max column index is: " + maxCol);
 
     }
 }
